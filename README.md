@@ -25,9 +25,11 @@ To use this model on MMD tools, use "`Uka.pmx`".
 
 ## License
 
-Files in this repository are licensed by Nagoya Institute of Technology under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en):
+Files in this repository are licensed by Nagoya Institute of Technology under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).  For use, please use this credit:
 
-CG-CA Uka (c) 2023 by Nagoya Institute of Technology
+```text
+CG-CA Uka (c) 2023 by Nagoya Institute of Technology, Moonshot R&D Goal 1 Avatar Symbiotic Society
+```
 
 ## Usage Guideline
 

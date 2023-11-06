@@ -28,7 +28,9 @@ MMD のツール等でで読み込む場合は `Uka.pmx` のほうを使って�
 
 本レポジトリに含まれるファイルは全て [CC-BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)で公開されています。利用の際は以下のクレジット表記を用いてください。
 
-CG-CA Uka (c) 2023 by Nagoya Institute of Technology
+```text
+CG-CA Uka (c) 2023 by Nagoya Institute of Technology, Moonshot R&D Goal 1 Avatar Symbiotic Society
+```
 
 ## 利用ガイドライン
 
