@@ -1,11 +1,11 @@
-# CG Cybernetic Avatar Model "Uka"
+# CG Cybernetic Avatar "Uka"
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![ja](https://img.shields.io/badge/lang-ja-blue.svg)](README.ja.md)
 
 <img width="480" alt="snapshot" src="uka.png"/>
 
-"Uka" is a CG avatar character model, developed under [AVATAR SYMBIOTIC SOCIETY Project](https://avatar-ss.org/en/index.html). It has been developed with [MMDAgent-EX](https://github.com/mmdagent-ex/MMDAgent-EX).
+"Uka" is a CG-CA (Cybernetic avatar) character model, developed under [AVATAR SYMBIOTIC SOCIETY Project](https://avatar-ss.org/en/index.html). It has been developed with [MMDAgent-EX](https://github.com/mmdagent-ex/MMDAgent-EX).
 
 It is in MMD format, so you can open/edit/modify the model with MMD tools.
 
