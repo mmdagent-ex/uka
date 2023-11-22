@@ -9,7 +9,20 @@
 
 It is in MMD format, so you can open/edit/modify the model with MMD tools.
 
-## Specifications
+## Files
+
+This repository contains MMD models, configuration files for use in MMDAgent-EX, and sample motion files for dialog system.
+
+```text
+   MS_Uka.pmd           Model file (.pmd)
+   MS_Uka.pmd.csv       Model extended file
+   MS_Uka.pmd.shapemap  Lipsync definitions for MMDAgent-EX
+   MS_Uka.pmx           Model file (.pmx)
+   tex/                 Texture images for the model
+   motion/              Sample dialog motions
+```
+
+## Model Specifications
 
 - 49951 vertices, 77907 surfaces, 10 materials, 8 textures
 - A-pose, MMD-compliant scale
