@@ -1,7 +1,7 @@
 #### パラメータ
 ## 目の回転量の係数。小さいほど目の回転量が小さくなる
 ## PMDモデルではモデルごとに目の回転量が異なるのでこの値で調整
-EYE_ROTATION_COEF 0.35
+EYE_ROTATION_COEF 0.3
 
 #### リップシンク用モーフ名
 LIP_A あ
@@ -113,3 +113,65 @@ ACT38 motion/38_Ashamed.vmd
 ## __AV_EXMORPH で使用される name に対応するフェイス名
 ## モーフの記述方法は AU や ARKIT と同じ
 #EXMORPH_name モーフ名
+
+
+browDown_L browDownLeft 
+browDown_R browDownRight 
+browInnerUp browInnerUp 
+browOuterUp_L browOuterUpLeft 
+browOuterUp_R browOuterUpRight 
+
+cheekPuff cheekPuff 
+cheekSquint_L cheekSquintLeft 
+cheekSquint_R cheekSquintRight 
+
+eyeBlink_R eyeBlinkRight 
+eyeBlink_L eyeBlinkLeft 
+eyeLookDown_L eyeLookDownLeft 
+eyeLookDown_R eyeLookDownRight 
+eyeLookIn_L eyeLookInLeft 
+eyeLookIn_R eyeLookInRight 
+eyeLookOut_L eyeLookOutLeft 
+eyeLookOut_R eyeLookOutRight 
+eyeLookUp_L eyeLookUpLeft 
+eyeLookUp_R eyeLookUpRight 
+eyeSquint_L eyeSquintLeft 
+eyeSquint_R eyeSquintRight 
+eyeWide_L eyeWideLeft 
+eyeWide_R eyeWideRight 
+
+# hapihapi
+
+jawForward jawForward 
+jawLeft jawLeft 
+jawOpen jawOpen 
+jawRight jawRight 
+
+mouthClose mouthClose 
+mouthDimple_L mouthDimpleLeft 
+mouthDimple_R mouthDimpleRight 
+mouthFrown_L mouthFrownLeft 
+mouthFrown_R mouthFrownRight 
+mouthFunnel mouthFunnel 
+mouthLeft mouthLeft 
+mouthLowerDown_L mouthLowerDownLeft 
+mouthLowerDown_R mouthLowerDownRight 
+mouthPress_L mouthPressLeft 
+mouthPress_R mouthPressRight 
+mouthPucker mouthPucker 
+mouthRight mouthRight 
+mouthRollLower mouthRollLower 
+mouthRollUpper mouthRollUpper 
+mouthShrugLower mouthShrugLower 
+mouthShrugUpper mouthShrugUpper 
+mouthSmile_L mouthSmileLeft 
+mouthSmile_R mouthSmileRight 
+mouthStretch_L mouthStretchLeft 
+mouthStretch_R mouthStretchRight 
+mouthUpperUp_L mouthUpperUpLeft 
+mouthUpperUp_R mouthUpperUpRight 
+
+noseSneer_L noseSneerLeft 
+noseSneer_R noseSneerRight 
+
+tongueOut tongueOut 
