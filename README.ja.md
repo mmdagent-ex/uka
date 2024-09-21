@@ -23,7 +23,6 @@
 - 148 モーフ（MMD互換+パーフェクトシンク）
 - 物理演算：164剛体, 151ジョイント
 
-
 ## 主要なファイル
 
 このレポジトリには MMD 形式のモデル、MMDAgent-EX 用の設定ファイル、およびサンプルの対話用モーションが含まれています。
@@ -45,12 +44,18 @@ MMD のツール等でで読み込む場合は `Uka.pmx` のほうを使って�
 
 MMDAgent-EX で使う際のチュートリアル等の詳しい説明は[MMDAgent-EXのサイト](https://mmdagent-ex.dev/)をご覧ください。
 
+頭部の獣耳は「耳収納」モーフで非表示にできます。MMDAgent-EX ではモデルをロードしたあとに以下のメッセージを発行することで非表示にできます（「(model alias)」は `0` 等、対象のモデルエイリアスを指定して下さい）
+
+```text
+MODEL_BINDFACE|(model alias)|耳収納|1
+```
+
 ## ライセンス
 
 本レポジトリに含まれるファイルは全て [CC-BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)で公開されています。利用の際は以下のクレジット表記を用いてください。
 
 ```text
-CG-CA Uka (c) 2023 by Nagoya Institute of Technology, Moonshot R&D Goal 1 Avatar Symbiotic Society
+CG-CA Uka (c) 2023-2024 by Nagoya Institute of Technology, Moonshot R&D Goal 1 Avatar Symbiotic Society
 ```
 
 ## 利用ガイドライン

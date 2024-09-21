@@ -44,12 +44,18 @@ To use this model on MMD tools, use "`Uka.pmx`" and convert it to be used with M
 
 See [Official site](https://mmdagent-ex.dev/) for more documentations.
 
+The ear muffs can be cleared by setting 耳収納 morph to 1.0.  At MMDAgent-EX, issuing command like below will make the muffs disappeared.  ("(model alias)" should be replaced for the target model alias)
+
+```text
+MODEL_BINDFACE|(model alias)|耳収納|1
+```
+
 ## License
 
 Files in this repository are licensed by Nagoya Institute of Technology under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).  For use, please use this credit:
 
 ```text
-CG-CA Uka (c) 2023 by Nagoya Institute of Technology, Moonshot R&D Goal 1 Avatar Symbiotic Society
+CG-CA Uka (c) 2023-2024 by Nagoya Institute of Technology, Moonshot R&D Goal 1 Avatar Symbiotic Society
 ```
 
 ## Usage Guideline
